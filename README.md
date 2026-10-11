@@ -39,21 +39,9 @@ https://github.com/user-attachments/assets/c71c68e1-7887-4258-9cc3-d67da1598e06
 
 ## Related Publications
 
-1. **A non-invasive muscle fatigue assessment method for construction workers: a field-validated biomechanical simulation approach.** *Advanced Engineering Informatics*, 76 (2026), 105091. [DOI](https://doi.org/10.1016/j.aei.2026.105091)
 
-~~~bibtex
-@article{xie2026musclefatigue,
-  title={A non-invasive muscle fatigue assessment method for construction workers: a field-validated biomechanical simulation approach},
-  author={Xie, Minshan and Yu, Yantao and Chen, Xinyu and Zhou, Zihao},
-  journal={Advanced Engineering Informatics},
-  volume={76},
-  pages={105091},
-  year={2026},
-  doi={10.1016/j.aei.2026.105091}
-}
-~~~
 
-2. **Multimodal data fusion for ergonomic assessment of construction workers in visually obstructed environments.** *Automation in Construction*, 179 (2025), 106495. [DOI](https://doi.org/10.1016/j.autcon.2025.106495)
+1. **Multimodal data fusion for ergonomic assessment of construction workers in visually obstructed environments.** *Automation in Construction*, 179 (2025), 106495. [DOI](https://doi.org/10.1016/j.autcon.2025.106495)
 
 ~~~bibtex
 @article{chen2025multimodal,
@@ -67,7 +55,7 @@ https://github.com/user-attachments/assets/c71c68e1-7887-4258-9cc3-d67da1598e06
 }
 ~~~
 
-3. **Automatic repetitive action counting for construction worker ergonomic assessment.** *Automation in Construction*, 167 (2024), 105726. [DOI](https://doi.org/10.1016/j.autcon.2024.105726)
+2. **Automatic repetitive action counting for construction worker ergonomic assessment.** *Automation in Construction*, 167 (2024), 105726. [DOI](https://doi.org/10.1016/j.autcon.2024.105726)
 
 ~~~bibtex
 @article{chen2024repetitive,
@@ -81,4 +69,16 @@ https://github.com/user-attachments/assets/c71c68e1-7887-4258-9cc3-d67da1598e06
 }
 ~~~
 
+3. **A non-invasive muscle fatigue assessment method for construction workers: a field-validated biomechanical simulation approach.** *Advanced Engineering Informatics*, 76 (2026), 105091. [DOI](https://doi.org/10.1016/j.aei.2026.105091)
 
+~~~bibtex
+@article{xie2026musclefatigue,
+  title={A non-invasive muscle fatigue assessment method for construction workers: a field-validated biomechanical simulation approach},
+  author={Xie, Minshan and Yu, Yantao and Chen, Xinyu and Zhou, Zihao},
+  journal={Advanced Engineering Informatics},
+  volume={76},
+  pages={105091},
+  year={2026},
+  doi={10.1016/j.aei.2026.105091}
+}
+~~~
