@@ -2,7 +2,6 @@
 
 ## Towards a Layered Approach to Ergonomic Assessment on Construction Sites
 
-**Yantao Yu**  
 Human-centered Intelligent Construction Lab (HCIC Lab)
 
 This repository presents video demonstrations and selected results for our conference chapter on layered ergonomic assessment in construction. The work connects site observations with posture recovery, external load, repetitive action analysis, musculoskeletal simulation, and muscle fatigue assessment.
@@ -18,7 +17,8 @@ This repository presents video demonstrations and selected results for our confe
 ### 1. Multimodal data collection
 Video and plantar-pressure data are combined to capture construction activities and physical exposure.
 
-https://github.com/user-attachments/assets/9b045410-b3f8-4069-a4e2-c88ff669f0c8
+<img width="4270" height="2315" alt="Picture1" src="https://github.com/user-attachments/assets/1b4fe075-1c5e-4619-87ae-ea6c151f0338" />
+
 
 ### 2. Pose estimation under visual occlusion
 Worker posture is recovered when tools, materials, or camera views obscure body joints.
@@ -30,12 +30,7 @@ Repetitive actions are counted together with time-varying ergonomic risk scores.
 
 https://github.com/user-attachments/assets/0e4a897f-dc9a-49be-893f-bac97b52d63c
 
-### 4. Musculoskeletal simulation
-Recovered construction motions are transferred to OpenSim for biomechanical analysis.
-
-https://github.com/user-attachments/assets/3722b647-480e-4569-9567-5ade79d24c0e
-
-### 5. Muscle activity and fatigue assessment
+### 4. Muscle activity and fatigue assessment
 Simulated muscle activation is compared with measured muscle signals during construction tasks.
 
 https://github.com/user-attachments/assets/c71c68e1-7887-4258-9cc3-d67da1598e06
@@ -84,6 +79,4 @@ https://github.com/user-attachments/assets/c71c68e1-7887-4258-9cc3-d67da1598e06
 }
 ~~~
 
-## Contact
 
-**Yantao Yu** · [yantaolab@gmail.com](mailto:yantaolab@gmail.com)
