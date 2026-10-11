@@ -9,7 +9,7 @@ This repository presents video demonstrations and selected results for our confe
 ## Methodology
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/10b1f12b-1393-4a92-a591-16da98de841c" width="900" alt="Layered ergonomic assessment methodology">
+  <img width="4270" height="2315" alt="Picture1" src="https://github.com/user-attachments/assets/1b4fe075-1c5e-4619-87ae-ea6c151f0338" />
 </p>
 
 ## Video Demonstrations
@@ -17,7 +17,9 @@ This repository presents video demonstrations and selected results for our confe
 ### 1. Multimodal data collection
 Video and plantar-pressure data are combined to capture construction activities and physical exposure.
 
-<img width="4270" height="2315" alt="Picture1" src="https://github.com/user-attachments/assets/1b4fe075-1c5e-4619-87ae-ea6c151f0338" />
+
+https://github.com/user-attachments/assets/cb97bbc8-ca9b-4061-b96a-814793a8989a
+
 
 
 ### 2. Pose estimation under visual occlusion
